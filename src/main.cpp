@@ -4,6 +4,7 @@
 USBSerial serial;
 
 // reference: http://www.ethernut.de/en/documents/arm-inline-asm.html
+// also:      https://azeria-labs.com/downloads/cheatsheetv1.3-1920x1080.png
 
 //asm(code : output operand list : input operand list : clobber list);
 
